@@ -15,7 +15,7 @@ Ensure customer_orders and payments tables match the assignment schema.
 Execute each file in the sql/ folder—comments guide you through both the “what” and the “why.”
 
 #### Launch the Jupyter notebook
-jupyter notebook alt_mobility_analysis.ipynb
+alt_mobility_analysis.ipynb
 Place customer_orders.csv and payments.csv in the notebook’s directory.
 Run all cells to produce bar charts, line graphs, pie charts, cohort heatmaps, and a 3D retention surface.
 
