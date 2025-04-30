@@ -10,19 +10,19 @@ Thank you for taking the time to review my submission. I’ve put together a cle
    git clone https://github.com/ashutosh-shukla/alt-mobility-data-analyst-assignment.git
    cd alt-mobility-data-analyst-assignment
 
-### Run the SQL queries
-### Ensure customer_orders and payments tables match the assignment schema.
-### Execute each file in the sql/ folder—comments guide you through both the “what” and the “why.”
+#### Run the SQL queries
+Ensure customer_orders and payments tables match the assignment schema.
+Execute each file in the sql/ folder—comments guide you through both the “what” and the “why.”
 
-### Launch the Jupyter notebook
+#### Launch the Jupyter notebook
 jupyter notebook alt_mobility_analysis.ipynb
 Place customer_orders.csv and payments.csv in the notebook’s directory.
+Run all cells to produce bar charts, line graphs, pie charts, cohort heatmaps, and a 3D retention surface.
 
-### Run all cells to produce bar charts, line graphs, pie charts, cohort heatmaps, and a 3D retention surface.
+#### Browse visuals & summary
 
-### Browse visuals & summary
-
-### Find .png exports in the visualizations/ folder.
+Find .png exports in the visualizations/ folder.
+Read summary_of_findings.pdf for a 1–2 page narrative tying everything together.
 
 ## What You’ll Discover
 ### Orders by Status
