@@ -22,7 +22,7 @@ Run all cells to produce bar charts, line graphs, pie charts, cohort heatmaps, a
 #### Browse visuals & summary
 
 Find .png exports in the visualizations/ folder.
-Read summary_of_findings.pdf for a 1–2 page narrative tying everything together.
+Read summary_of_findings.pdf for a precise narrative.
 
 ## What You’ll Discover
 ### Orders by Status
